@@ -3,9 +3,8 @@
     <main class="py-12 max-w-3xl mx-auto px-6">
       <post-header :post="$page.post" />
       <article class="mt-8 sm:mt-16">
-        <alert v-if="postIsOlderThanOneYear" class="bg-orange-100 border-orange-500 text-orange-900">
-          This post is over a year old, some of this information may be out of date.
-        </alert>
+        <div class="markdown" v-html="$page.goma.description" />
+        <div class="markdown" v-html="$page.goma.precio" />
         <div class="markdown" v-html="$page.goma.content" />
       </article>
       <site-footer class="pt-8 pb-4" />
@@ -74,10 +73,6 @@ export default {
     config () {
       return config
     },
-    postIsOlderThanOneYear () {
-      let postDate = moment(this.$page.post.datetime)
-      return moment().diff(postDate, 'years') > 0 ? true : false
-    },
     ogImageUrl () {
       return `${this.config.siteUrl}/images/briefly-card.png`
     }
@@ -89,9 +84,9 @@ export default {
 query Goma ($path: String) {
   goma (path: $path) {
     title
-    datetime: date (format: "YYYY-MM-DD HH:mm:ss")
     content
     description
+    precio
     path
   }
 }
