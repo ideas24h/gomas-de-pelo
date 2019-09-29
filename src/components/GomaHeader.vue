@@ -13,7 +13,7 @@
 import moment from 'moment'
 
 export default {
-  props: ['post'],
+  props: ['goma'],
   computed: {
     formattedPublishDate() {
       return moment(this.post.datetime).format('YYYY-MM-DD');

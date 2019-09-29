@@ -27,24 +27,24 @@ export default {
   },
   metaInfo () {
     return {
-      title: this.$page.post.title,
+      title: this.$page.goma.title,
       meta: [
         {
           key: 'description',
           name: 'description',
-          content: this.description(this.$page.post)
+          content: this.description(this.$page.goma)
         },
 
         { property: "og:type", content: 'article' },
-        { property: "og:title", content: this.$page.post.title },
-        { property: "og:description", content: this.description(this.$page.post) },
-        { property: "og:url", content: `${this.config.siteUrl + this.$page.post.path}/` },
-        { property: "article:published_time", content: moment(this.$page.post.date).format('YYYY-MM-DD') },
+        { property: "og:title", content: this.$page.goma.title },
+        { property: "og:description", content: this.description(this.$page.goma) },
+        { property: "og:url", content: `${this.config.siteUrl + this.$page.goma.path}/` },
+        { property: "article:published_time", content: moment(this.$page.goma.date).format('YYYY-MM-DD') },
         { property: "og:image", content: this.ogImageUrl },
 
         { name: "twitter:card", content: "summary_large_image" },
-        { name: "twitter:title", content: this.$page.post.title },
-        { name: "twitter:description", content: this.description(this.$page.post) },
+        { name: "twitter:title", content: this.$page.goma.title },
+        { name: "twitter:description", content: this.description(this.$page.goma) },
         { name: "twitter:site", content: "@cossssmin" },
         { name: "twitter:creator", content: "@cossssmin" },
         { name: "twitter:image", content: this.ogImageUrl },
