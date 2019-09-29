@@ -1,8 +1,8 @@
 <template>
   <footer class="text-gray-700 text-sm leading-normal flex flex-wrap justify-between">
     <div class="w-full sm:w-1/2 mb-4 sm:mb-0">
-      <p><a href="https://github.com/cossssmin/gridsome-starter-briefly" class="border-b border-transparent hover:border-briefly-blue transition-border-color">Briefly</a> by <a href="https://twitter.com/cossssmin" class="border-b border-transparent hover:border-briefly-blue transition-border-color">@cossssmin</a>.</p>
-      <p>Built with <a href="https://gridsome.org" class="border-b border-transparent hover:border-briefly-blue transition-border-color">Gridsome</a> &amp; <a href="https://tailwindcss.com/" class="border-b border-transparent hover:border-briefly-blue transition-border-color">Tailwind CSS</a>.</p>
+      <p><a href="/" class="border-b border-transparent hover:border-briefly-blue transition-border-color">wwww.gomasdepelo.com</a>  <a href="/" class="border-b border-transparent hover:border-briefly-blue transition-border-color"> ideas24h</a>.</p>
+       <!-- <p>Built with <a href="https://gridsome.org" class="border-b border-transparent hover:border-briefly-blue transition-border-color">Gridsome</a> &amp; <a href="https://tailwindcss.com/" class="border-b border-transparent hover:border-briefly-blue transition-border-color">Tailwind CSS</a>.</p> -->
     </div>
     <div class="w-full sm:w-1/2">
       <nav>

@@ -5,8 +5,8 @@ class TailwindExtractor {
 }
 
 module.exports = {
-  siteName: 'A minimal blog starter for Gridsome',
-  siteDescription: "Briefly is a minimal blog starter for Gridsome, the Vue.js static site generator. It's based on Dylan Smith's personal website design, and it's styled with Tailwind CSS.",
+  siteName: 'Gomas de pelo',
+  siteDescription: "información de gomas de pelo, donde comprar, comparativas, videos y cuales son las mejores gomas de pelo.",
   siteUrl: 'http://www.gomasdepelo.com',
   titleTemplate: `%s | Briefly`,
   icon: 'src/favicon.png',

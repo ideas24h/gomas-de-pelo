@@ -1,6 +1,11 @@
 <template>
-  <header>
-    <h1 class="text-3xl sm:text-5xl leading-tight font-bold mb-4 text-black">{{ post.title }}</h1>
+  <header class="mb-8 sm:mb-16 text-black leading-snug">
+    <div class="flex items-center flex-shrink-0  mr-6">
+      <span class="font-bold text-4xl tracking-tight">
+        <g-link  to="/">{{ $static.metadata.siteName }}</g-link>
+      </span>
+      </div>
+    <h2 class="text-3xl sm:text-5xl leading-tight font-bold mb-4 text-black">{{ post.title }}</h2>
     <time :datetime="post.datetime" class="text-gray-500">{{ formattedPublishDate }}</time>
   </header>
 </template>
@@ -17,3 +22,10 @@ export default {
   },
 }
 </script>
+<static-query>
+query{
+  metadata{
+    siteName
+  }
+}
+</static-query>
