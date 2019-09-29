@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <main class="py-12 max-w-3xl mx-auto px-6">
-      <goma-header :post="$page.post" />
+      <goma-header :goma="$page.goma" />
       <article class="mt-8 sm:mt-16">
         <div class="markdown" v-html="$page.goma.description" />
         <div class="markdown" v-html="$page.goma.precio" />
@@ -22,7 +22,7 @@ import SiteFooter from '@/components/SiteFooter'
 export default {
   components: {
     Alert,
-    PostHeader,
+    GomaHeader,
     SiteFooter,
   },
   metaInfo () {
