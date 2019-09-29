@@ -2,8 +2,8 @@
   <Layout class="bg-white">
     <main class="py-12 max-w-2xl mx-auto px-6">
       <index-header />
-      <posts-list :posts="$page.posts.edges" />
-      <pagination base="/paginated" :info="$page.posts.pageInfo" v-if="$page.posts.pageInfo.totalPages > 1" />
+      <posts-filter @filter="filterPosts" />
+      <posts-list :posts="$page.posts.edges" :filter="showPosts" />
       <site-footer class="pt-8 pb-4" />
     </main>
   </Layout>
@@ -12,16 +12,21 @@
 <script>
 import config from '~/.temp/config.js'
 import PostsList from '@/components/PostsList'
-import Pagination from '@/components/Pagination'
 import SiteFooter from '@/components/SiteFooter'
+import PostsFilter from '@/components/PostsFilter'
 import IndexHeader from '@/components/IndexHeader'
 
 export default {
   components: {
     IndexHeader,
     PostsList,
-    Pagination,
+    PostsFilter,
     SiteFooter,
+  },
+  data () {
+    return {
+      showPosts: 'all'
+    }
   },
   metaInfo () {
     return {
@@ -42,25 +47,25 @@ export default {
       ],
     }
   },
+  methods: {
+    filterPosts (type) {
+      this.showPosts = type
+    }
+  },
   computed: {
     config () {
       return config
     },
     ogImageUrl () {
-      return `${this.config.siteUrl}/images/bleda-card.png`
+      return `${this.config.siteUrl}/images/briefly-card.png`
     }
   },
 }
 </script>
 
 <page-query>
-  query Home ($page: Int) {
-    posts: allPost (page: $page, perPage: 4) @paginate {
-      totalCount
-      pageInfo {
-        totalPages
-        currentPage
-      }
+  query Home {
+    posts: allPost {
       edges {
         node {
           id

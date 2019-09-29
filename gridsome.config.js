@@ -16,7 +16,7 @@ module.exports = {
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
       plugins: [
-        ['gridsome-plugin-remark-shiki', {
+        ['gridsome-plugin-remark-youtube','gridsome-plugin-remark-shiki', {
           theme: 'min-light'
         }]
       ]
