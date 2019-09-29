@@ -33,6 +33,14 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'gomas/**/*.md',
+        typeName: 'Goma',
+        // route: '/:slug',
+      }
+    },
+    {
       use: '@gridsome/plugin-google-analytics',
       options: {
         id: 'UA-149004954-1'
@@ -49,7 +57,7 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Briefly, a Gridsome minimal blog starter',
+          title: 'Gomas de pelo',
           feed_url: 'http://www.gomasdepelo.com/feed.xml',
           site_url: 'http://www.gomasdepelo.com'
         },
