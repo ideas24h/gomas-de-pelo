@@ -7,7 +7,7 @@ class TailwindExtractor {
 module.exports = {
   siteName: 'A minimal blog starter for Gridsome',
   siteDescription: "Briefly is a minimal blog starter for Gridsome, the Vue.js static site generator. It's based on Dylan Smith's personal website design, and it's styled with Tailwind CSS.",
-  siteUrl: 'https://gridsome-starter-briefly.netlify.com',
+  siteUrl: 'http://www.gomasdepelo.com',
   titleTemplate: `%s | Briefly`,
   icon: 'src/favicon.png',
 
@@ -29,13 +29,13 @@ module.exports = {
       options: {
         path: 'posts/**/*.md',
         typeName: 'Post',
-        route: '/:slug',
+        // route: '/:slug',
       }
     },
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-135446199-2'
+        id: 'UA-149004954-1'
       }
     },
     {
@@ -50,13 +50,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Briefly, a Gridsome minimal blog starter',
-          feed_url: 'https://gridsome-starter-briefly.netlify.com/feed.xml',
-          site_url: 'https://gridsome-starter-briefly.netlify.com'
+          feed_url: 'http://www.gomasdepelo.com/feed.xml',
+          site_url: 'http://www.gomasdepelo.com'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'https://gridsome-starter-briefly.netlify.com/' + node.slug,
+          url: 'http://www.gomasdepelo.com/' + node.slug,
           author: '@cossssmin',
           date: node.date
         }),
