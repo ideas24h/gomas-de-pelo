@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <main class="py-12 max-w-3xl mx-auto px-6">
-      <post-header :post="$page.post" />
+      <goma-header :post="$page.post" />
       <article class="mt-8 sm:mt-16">
         <div class="markdown" v-html="$page.goma.description" />
         <div class="markdown" v-html="$page.goma.precio" />
@@ -16,7 +16,7 @@
 import moment from 'moment'
 import config from '~/.temp/config.js'
 import Alert from '@/components/Alert'
-import PostHeader from '~/components/PostHeader'
+import GomaHeader from '~/components/GomaHeader'
 import SiteFooter from '@/components/SiteFooter'
 
 export default {
