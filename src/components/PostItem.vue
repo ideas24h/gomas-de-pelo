@@ -1,14 +1,14 @@
 <template>
-  <li class="mb-8 sm:mb-16 -mx-5" :class="{hidden: !visible}">
-    <div class="md:flex-shrink-0 w-64 mx-auto ">
-      <g-image v-if="post.node.coverImage" :src="post.node.coverImage" class="rounded-lg md:w-auto" alt="Cover" />
+  <li class="mb-8 sm:mb-16 -mx-5">
+
+    <div class="md:flex w-128 mx-auto ">
+      <g-link :to="`${post.node.path}/`" class="article-list-link">
+                  <g-image v-if="post.node.coverImage" :src="post.node.coverImage"  class="rounded-lg md:w-32" :alt="post.node.title" />
+        <h2 class="text-2xl">{{ post.node.title }}</h2>
+        <p class="text-gray-600 leading-snug">{{ post.node.description }}</p>
+      </g-link>
+
     </div>
-    {{ post.node.coverImage }} aqui
-    <g-link :to="`${post.node.path}/`" class="article-list-link">
-      <h2>{{ post.node.title }}</h2>
-      <p class="text-gray-400 leading-snug">{{ post.node.description }}</p>
-      <!-- <time :datetime="post.node.datetime" class="text-gray-400 text-sm">{{ formatPublishDate(post.node.datetime) }}</time> -->
-    </g-link>
   </li>
 </template>
 

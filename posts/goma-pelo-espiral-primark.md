@@ -1,7 +1,6 @@
 ---
 title: "Gomas de  pelo espiral primark"
 description: "Gomas de pelo transparentes"
-date: 2019-02-27 17:54:43
 coverImage: "https://images-na.ssl-images-amazon.com/images/I/71DmDisyriL._AC_SL1000_.jpg"
 ---
 
