@@ -6,7 +6,7 @@
       </g-link>
     </div>
     <h2 class="text-3xl sm:text-5xl leading-tight font-bold mb-4 text-black">{{ post.title }}</h2>
-    <!-- <time :datetime="post.datetime" class="text-gray-500">{{ formattedPublishDate }}</time> -->
+    <h3 class="text-gray-600 leading-snug">{{ post.description }}</h3>
   </header>
 </template>
 
