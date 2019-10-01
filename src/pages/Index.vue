@@ -65,6 +65,7 @@ export default {
         node {
           id
           title
+          coverImage
           datetime: date (format: "YYYY-MM-DD HH:mm:ss")
           content
           description

@@ -6,7 +6,7 @@
       </span>
       </div>
     <h2 class="text-3xl sm:text-5xl leading-tight font-bold mb-4 text-black">{{ post.title }}</h2>
-    <time :datetime="post.datetime" class="text-gray-500">{{ formattedPublishDate }}</time>
+    <!-- <time :datetime="post.datetime" class="text-gray-500">{{ formattedPublishDate }}</time> -->
   </header>
 </template>
 

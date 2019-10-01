@@ -6,6 +6,9 @@
         <alert v-if="postIsOlderThanOneYear" class="bg-orange-100 border-orange-500 text-orange-900">
           This post is over a year old, some of this information may be out of date.
         </alert>
+        <div class="md:flex-shrink-0 w-64 mx-auto ">
+          <g-image v-if="$page.post.coverImage" :src="$page.post.coverImage" class="rounded-lg md:w-auto" :alt="$page.post.title" />
+        </div>
         <div class="markdown" v-html="$page.post.content" />
       </article>
       <site-footer class="pt-8 pb-4" />
@@ -92,6 +95,7 @@ query Post ($path: String) {
     datetime: date (format: "YYYY-MM-DD HH:mm:ss")
     content
     description
+    coverImage
     path
   }
 }
