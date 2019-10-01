@@ -12,6 +12,8 @@ Cuando usas gomas que dañan tu cabello, pueden provocar roturas, puntas abierta
 Si crees que no te crece el pelo rapidamente, podría estar directamente relacionado con la rotura y el daño al hacerte coletas, y no con productos o herramientas calientes como tantas personas piensan.
 Una vez que tu pelo esta dañado la única solución para sanearlo, es cortarlo.
 
+Tambien se suele decir que las coletas muy apretadas pueden producir alopecia.
+
 Aquí tienes un truco para hacer tu coleta mas larga:
 
 `youtube:https://www.youtube.com/watch?v=2jYpJwxwy30`
