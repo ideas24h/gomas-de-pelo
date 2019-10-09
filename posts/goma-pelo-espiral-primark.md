@@ -1,5 +1,5 @@
 ---
-title: "Gomas de  pelo espiral primark"
+title: "Gomas de  pelo espiral primark en 2019"
 description: "Gomas de pelo transparentes"
 coverImage: "https://images.primark.com/productsimages/D35397147590804-xlarge.jpg"
 ---
