@@ -4,10 +4,17 @@
       <post-header :post="$page.post" />
       <article class="mt-8 sm:mt-16">
         <div class="md:flex-shrink-0 w-64 mx-auto ">
-          <g-image v-if="$page.post.coverImage" :src="$page.post.coverImage" class="rounded-lg md:w-auto" :alt="$page.post.title" />
+          <a :href="$page.post.afiUrl">
+            <g-image v-if="$page.post.coverImage" :src="$page.post.coverImage" class="rounded-lg md:w-auto" :alt="$page.post.title" />
+          </a>
         </div>
-        <div class="markdown" v-html="$page.post.content" />
+        <div class="markdown" v-html="$page.post.content" />  
       </article>
+      <div v-if="$page.post.afiUrl" class="sm:object-center">
+        <a class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-4 px-8 shadow-lg rounded-lg uppercase tracking-wider font-semibold" :href="$page.post.afiUrl">
+          Ver en Amazon
+        </a>
+      </div>
       <site-footer class="pt-8 pb-4" />
     </main>
   </Layout>
@@ -93,6 +100,7 @@ query Post ($path: String) {
     content
     description
     coverImage
+    afiUrl
     path
   }
 }
