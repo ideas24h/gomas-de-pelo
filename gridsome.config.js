@@ -53,6 +53,14 @@ module.exports = {
       }
     },
     {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-PWSVGNS',
+        enabled: true,
+        debug: true
+      }
+    },
+    {
       use: 'gridsome-plugin-rss',
       options: {
         contentTypeName: 'Post',
