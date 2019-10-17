@@ -8,7 +8,7 @@ Cuando usas gomas que dañan tu cabello, pueden provocar roturas, puntas abierta
 
 ** Un pelo dañado es igual a un pelo opaco y sin vida **
 
-**El cabello dañado también puede caerse**
+** El cabello dañado también puede caerse **
 
 Si crees que no te crece el pelo rapidamente, podría estar directamente relacionado con la rotura y el daño al hacerte coletas, y no con productos o herramientas calientes como tantas personas piensan.
 Una vez que tu pelo esta dañado la única solución para sanearlo, es cortarlo.

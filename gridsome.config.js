@@ -7,7 +7,7 @@ class TailwindExtractor {
 module.exports = {
   siteName: 'Gomas de pelo',
   siteDescription: "información de gomas de pelo, donde comprar, comparativas, videos y cuales son las mejores gomas de pelo.",
-  siteUrl: 'http://www.gomasdepelo.com',
+  siteUrl: 'https://www.gomasdepelo.com',
   titleTemplate: `%s | Ideas`,
   icon: 'src/favicon.png',
 
@@ -60,13 +60,13 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Gomas de pelo',
-          feed_url: 'http://www.gomasdepelo.com/feed.xml',
-          site_url: 'http://www.gomasdepelo.com'
+          feed_url: 'https://www.gomasdepelo.com/feed.xml',
+          site_url: 'https://www.gomasdepelo.com'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.description,
-          url: 'http://www.gomasdepelo.com/' + node.slug,
+          url: 'https://www.gomasdepelo.com/' + node.slug,
           author: '@cossssmin',
           date: node.date
         }),
