@@ -14,15 +14,11 @@ Te adjuntamos un par de tutoriases en Youtube para aprender a hacer peniados con
 
 Un peinado para niñas con el pelo corto
 
-youtube:`https://www.youtube.com/watch?v=xWv_DqRfVdk`
+`youtube:https://www.youtube.com/watch?v=xWv_DqRfVdk`
 
 
-Peinados de moda 2019, peinados 2018, peinados fáciles 2018 para cabello corto, cabello largo, peinados con trenzas, peinados con reogidos, peinados tutoriales 2018,, Peinados con trenzas, peinados de moda 2018, peinados 2018, peinados faciles y rapidos, 
 
 
-vamos a hacer ahora es coger
-mechones pequeñitos y vamos a hacer
-varias trenzas
 
 este mechón de aquí no lo vamos a
 trenzar lo vamos a dividir entre dos y
