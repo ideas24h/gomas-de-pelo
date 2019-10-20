@@ -8,7 +8,6 @@
     </main>
   </Layout>
 </template>
-
 <script>
 import config from '~/.temp/config.js'
 import PostsList from '@/components/PostsList'
@@ -32,6 +31,7 @@ export default {
     return {
       title: this.config.siteName,
       meta: [
+        { property: "robots", content: "noindex"},
         { property: "og:type", content: 'website' },
         { property: "og:title", content: this.config.siteName },
         { property: "og:description", content: this.config.siteDescription },
