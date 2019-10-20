@@ -40,13 +40,7 @@ export default {
         {
           key: 'description',
           name: 'description',
-          content: this.description(this.$page.post),
-           "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : this.$page.post.title,
-  "image" : this.coverImage,
-  "articleSection" : this.description(this.$page.post),
-  "articleBody" : $page.post.content
+          content: this.description(this.$page.post)
         },
 
         { property: "og:type", content: 'article' },
