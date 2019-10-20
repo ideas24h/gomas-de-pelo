@@ -5,8 +5,8 @@
         {{ $static.metadata.siteName }}
       </g-link>
     </div>
-    <h2 class="text-3xl sm:text-5xl leading-tight font-bold mb-4 text-black">{{ post.title }}</h2>
-    <h3 class="text-gray-600 leading-snug">{{ post.description }}</h3>
+    <h2 itemprop="name" class="text-3xl sm:text-5xl leading-tight font-bold mb-4 text-black">{{ post.title }}</h2>
+    <h3 itemprop="description" class="text-gray-600 leading-snug">{{ post.description }}</h3>
   </header>
 </template>
 

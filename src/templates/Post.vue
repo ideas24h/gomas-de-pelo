@@ -1,11 +1,11 @@
 <template>
   <Layout>
-    <main class="py-12 max-w-3xl mx-auto px-6">
+    <main itemscope itemtype="http://schema.org/Article" class="py-12 max-w-3xl mx-auto px-6">
       <post-header :post="$page.post" />
-      <article class="mt-8 sm:mt-16">
+      <article  class="mt-8 sm:mt-16">
         <div class="md:flex-shrink-0 w-64 mx-auto ">
           <a :href="$page.post.afiUrl">
-            <g-image v-if="$page.post.coverImage" :src="$page.post.coverImage" class="rounded-lg md:w-auto" :alt="$page.post.title" />
+            <g-image v-if="$page.post.coverImage" :src="$page.post.coverImage" itemprop="image" class="rounded-lg md:w-auto" :alt="$page.post.title" />
           </a>
         </div>
         <div class="markdown" v-html="$page.post.content" />  
