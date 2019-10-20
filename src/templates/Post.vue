@@ -40,7 +40,13 @@ export default {
         {
           key: 'description',
           name: 'description',
-          content: this.description(this.$page.post)
+          content: this.description(this.$page.post),
+           "@context" : "http://schema.org",
+  "@type" : "Article",
+  "name" : this.$page.post.title,
+  "image" : this.coverImage,
+  "articleSection" : this.description(this.$page.post),
+  "articleBody" : $page.post.content
         },
 
         { property: "og:type", content: 'article' },
@@ -48,14 +54,14 @@ export default {
         { property: "og:description", content: this.description(this.$page.post) },
         { property: "og:url", content: `${this.config.siteUrl + this.$page.post.path}/` },
         { property: "article:published_time", content: moment(this.$page.post.date).format('YYYY-MM-DD') },
-        { property: "og:image", content: this.ogImageUrl },
+        { property: "og:image", content: this.coverImage },
 
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: this.$page.post.title },
         { name: "twitter:description", content: this.description(this.$page.post) },
         { name: "twitter:site", content: "@cossssmin" },
         { name: "twitter:creator", content: "@cossssmin" },
-        { name: "twitter:image", content: this.ogImageUrl },
+        { name: "twitter:image", content: this.coverImage },
       ],
     }
   },
