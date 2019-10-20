@@ -16,25 +16,9 @@ Un peinado para niñas con el pelo corto
 
 `youtube:https://www.youtube.com/watch?v=xWv_DqRfVdk`
 
+Este mechón de aquí no lo vamos a trenzar lo vamos a dividir entre dos y lo vamos a ir cruzando y enrollando. Otra opción que podemos hacer es coger
+un mechón separar el otro con una pinza y empezar a trenzar.
 
+Soltamos la pinza y vamos a dejar un nuevo mechón y lo dividimos en dos y con las tres particiones empezamos a trenzar denuevo
+y vamos a soltar un nuevo mechón y hacemos lo mismo.
 
-
-
-este mechón de aquí no lo vamos a
-trenzar lo vamos a dividir entre dos y
-lo vamos a ir cruzando y enrollando
-
-otra opción que podemos hacer es coger
-un mechón separar el otro con una pinza
-y empezar a trenzar
-
-soltamos la pinza y vamos a dejar un
-nuevo macho
-dividimos el mechón en dos y con las
-tres particiones empezamos a trenzar de
-nuevo
-y vamos a soltar un nuevo mechón y
-hacemos lo mismo
-
-bueno pues aquí he dejado algunas ideas
-para que practiques en vuestro cabello

@@ -25,7 +25,7 @@ Compatible con todo tipo de cabello.
 Mantiene el cabello en su lugar todo el tiempo, no es necesario volver a apretarlo después de unas horas
 El precio de estos, sin importar con qué marca vaya, es barato, lo que le permite comprar múltiples. Múltiples invisi bobble pueden ser fabulosos para mezclar y combinar colores y pueden agregar volumen a tu pony. Asegúrese de verificar el ancho del producto antes de comprarlos.
 
-Si desea una corbata más discreta, le sugiero que vaya con un ancho más pequeño.
+Si desea una coleta más discreta, le sugiero que vaya con un ancho más pequeño.
 
 
 
