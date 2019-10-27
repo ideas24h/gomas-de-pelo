@@ -6,7 +6,7 @@ coverImage: "/images/posts/gomas-para-trenzas.jpg"
 
 Las gomas pequeñas son ideales para hacer trenzas. Puedes conseguguir un peinado facil y rapido.
 
-Te adjuntamos un par de tutoriales en Youtube para aprender a hacer peniados con trenzas paso a paso: 
+Te adjuntamos un par de tutoriales en Youtube para aprender a hacer peinados con trenzas paso a paso: 
 
 `youtube:https://www.youtube.com/watch?v=XhP2IASWPmk`
 
