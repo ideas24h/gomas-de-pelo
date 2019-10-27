@@ -2,7 +2,7 @@
   <Layout class="bg-white">
     <main class="py-12 max-w-2xl mx-auto px-6">
       <index-header />
-      <posts-list :posts="$page.posts.edges" />
+      <posts-list  :posts="$page.posts.edges" />
       <pagination base="/paginated" :info="$page.posts.pageInfo" v-if="$page.posts.pageInfo.totalPages > 1" />
       <site-footer class="pt-8 pb-4" />
     </main>
