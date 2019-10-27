@@ -1,7 +1,7 @@
 ---
 title: "Gomas de pelo que no dejan marca mercadona"
 description: "¿Donde comprar gomas que no dejan marca? Las fomas de tipo de cable de tèlefono puesdes comprarlas en Primark, Mercadona o Amazon"
-coverImage: "https://images-na.ssl-images-amazon.com/images/I/71ntHEmzKyL._AC_SL1000_.jpg"
+coverImage: "/images/posts/webp/gomas-del-mercadona.webp"
 afiUrl: "https://amzn.to/2VXfZBr"
 
 ---

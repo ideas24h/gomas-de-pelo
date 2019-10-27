@@ -1,7 +1,7 @@
 ---
 title: "Gomas de  pelo espiral primark en 2019"
 description: "Gomas de pelo transparentes"
-coverImage: "/images/posts/gomas-espiral.jpg"
+coverImage: "/images/posts/webp/gomas-espiral.webp"
 ---
 A diferencia de los lazos típicos, el material utilizado en estos permite que tu cabello se vuelva a colocar mientras no se constriñe en un pequeño círculo. Los surcos en el material hecho de resina artificial permiten que el cabello fluya libremente.
 

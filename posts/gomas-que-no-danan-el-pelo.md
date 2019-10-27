@@ -1,7 +1,7 @@
 ---
 title: "Gomas que no dañan el pelo"
 description: "¿Por qué debería preocuparme por las gomas para del pelo que  dañan tu cabello?"
-coverImage: "/images/posts/pelo-al-viento.jpg"
+coverImage: "/images/posts/webp/pelo-al-viento.webp"
 ---
 
 Cuando usas gomas que dañan tu cabello, pueden provocar roturas, puntas abiertas. Cada vez que está causando daño directo a tu cabello, es irreversible. Esto puede ser problemático si está tratando de dejar crecer su cabello y también es impide mantener un **pelo sano y brillante.**

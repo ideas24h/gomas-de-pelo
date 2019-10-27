@@ -1,7 +1,7 @@
 ---
 title: "Gomas de pelo de tela"
 description: "Las gomas de tela ahora tambien llamaadas scrunchies"
-coverImage: "https://images-eu.ssl-images-amazon.com/images/I/51RbcBcKgdL._AC_US218_.jpg"
+coverImage: "/images/posts/webp/gomas-de-tela.webp"
 afiUrl: "https://amzn.to/2J2mQV2"
 ---
 Aquí  teneis un vido  de como hacer con retales de tela tu gomas de pelo en forma de lazo.

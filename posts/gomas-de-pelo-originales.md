@@ -1,7 +1,7 @@
 ---
 title: "Gomas de pelo originales"
 description: "Accesorios para recoger el pelo"
-coverImage: "/images/posts/gomas-originales.jpg"
+coverImage: "/images/posts/webp/gomas-originales.webp"
 ---
 Aquí puedes encontrar nuevas ideas.
 
