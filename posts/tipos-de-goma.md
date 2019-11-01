@@ -1,7 +1,7 @@
 ---
 title: "Tipos de goma"
 description: "Elige el tipo de goma mas adecuada para tu pelo"
-coverImage: ""
+coverImage: "/images/posts/tipos-goma.jpg"
 ---
 
 Existen muchos tipos de gomas que puedes elegir en función del tipo de pelo que tienes:
