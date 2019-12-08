@@ -7,7 +7,8 @@ export default function (Vue, { head }) {
     {
       type: 'text/javascript',
           src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-          async: true
+          async: true,
+      'data-ad-client': "ca-pub-5706637188045956",
     }
     )
   head.htmlAttrs = { lang: 'es' }
