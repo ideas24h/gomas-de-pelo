@@ -6,10 +6,12 @@ export default function (Vue, { head }) {
   head.script.push(
     {
       type: 'text/javascript',
-          src: '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+          src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
           async: true
     }
     )
   head.htmlAttrs = { lang: 'es' }
   head.bodyAttrs = { class: 'antialiased font-sans' }
 }
+
+
