@@ -1,5 +1,12 @@
 <template>
   <Layout>
+     <Adsense
+        class="mb-5"
+        ad-client="ca-pub-5706637188045956"
+        ad-slot="XXXXXXXXXX"
+        ad-style="display:block !important;"
+        ad-format="auto">
+      </Adsense>
     <main itemscope itemtype="http://schema.org/Article" class="py-12 max-w-3xl mx-auto px-6">
       <post-header :post="$page.post" />
       <article  class="mt-8 sm:mt-16">

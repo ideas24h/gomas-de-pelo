@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div>    
     <slot/>
   </div>
 </template>
@@ -15,5 +15,4 @@ export default {
   }
 }
 </script>
-
 <style src="~/assets/css/main.css"></style>
