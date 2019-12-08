@@ -18,13 +18,6 @@
       </div>
       <site-footer class="pt-8 pb-4" />
     </main>
-        <Adsense
-        class="mb-5"
-        ad-client="ca-pub-5706637188045956"
-        ad-slot="XXXXXXXXXX"
-        ad-style="display:block !important;"
-        ad-format="auto">
-      </Adsense>
   </Layout>
 </template>
 
@@ -34,13 +27,11 @@ import config from '~/.temp/config.js'
 import Alert from '@/components/Alert'
 import PostHeader from '~/components/PostHeader'
 import SiteFooter from '@/components/SiteFooter'
-import Adsense from '~/components/Adsense'
 export default {
   components: {
     Alert,
     PostHeader,
     SiteFooter,
-    Adsense,
   },
   metaInfo () {
     return {
