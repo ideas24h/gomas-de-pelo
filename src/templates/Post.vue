@@ -33,7 +33,7 @@ import config from '~/.temp/config.js'
 import Alert from '@/components/Alert'
 import PostHeader from '~/components/PostHeader'
 import SiteFooter from '@/components/SiteFooter'
-import Adsense from '~/components/Adsense.vue';
+import Adsense from '~/components/Adsense';
 export default {
   components: {
     Alert,
