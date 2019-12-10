@@ -1,7 +1,7 @@
 <template>
   <header class="mb-8 sm:mb-16 text-black leading-snug">
     <div class="flex items-center  mr-6">
-      <g-link  to="/" class="font-bold bg-pink-500  text-center text-white p-8 m-6 text-4xl tracking-tight">
+      <g-link  to="/" class="font-bold bg-red-400 w-auto  text-center text-white p-8 m-6 text-4xl tracking-tight">
         {{ $static.metadata.siteName }}
       </g-link>
     </div>
