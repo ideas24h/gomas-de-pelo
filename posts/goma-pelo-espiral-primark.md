@@ -2,6 +2,7 @@
 title: "Gomas de  pelo espiral primark en 2019"
 description: "Gomas de pelo transparentes  recoger el cabello en gruesos mechones y mantenerlo sujeto"
 coverImage: "/images/posts/webp/gomas-espiral.webp"
+afiUrl: "https://amzn.to/2VXfZBr"
 ---
 Las ventajas de este tipo de gomas son la **facilidad para recoger tu cabello**, evitando esos tirones al deshacer tu coleta. Manten tu coleta firme todo el dia con estas gomas baratas y faciles de conseguir en Primark. 
 
