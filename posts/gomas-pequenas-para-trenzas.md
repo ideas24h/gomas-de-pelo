@@ -2,6 +2,7 @@
 title: "Gomas pequeñas para trenzas en 2019"
 description: "Cuales son las mejores gomas para trenzas"
 coverImage: "/images/posts/webp/gomas-para-trenzas.webp"
+afiUrl: "https://amzn.to/35wt355"
 ---
 
 Las gomas pequeñas son ideales para hacer trenzas. Puedes conseguguir un peinado facil y rapido.
@@ -18,3 +19,4 @@ Este mechón de aquí no lo vamos a trenzar lo vamos a dividir entre dos y lo va
 
 Soltamos la pinza y vamos a dejar un nuevo mechón y lo dividimos en dos y con las tres particiones empezamos a trenzar de nuevo y luego vamos a soltar un nuevo mechón y hacemos lo mismo.
 
+Cos estete pack de 2000 gomas tienes para hacer tus trenas durante mucho tiempo. 
