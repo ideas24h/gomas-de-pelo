@@ -93,30 +93,19 @@ Las gomas invisibobbles ¿cumplen lo que prometen?
 
 `youtube:https://www.youtube.com/watch?v=S79h-dJT3XA`
 
-a ser una especie de nueva sección
-porque todavía no sé cómo la voy a
-titular seguramente sea en plan de
-prometer cumple es lo que promete es o
-algo así y bueno para inaugurarla quería
-hablaros un poquito de estas gomas del
-pelo no sé si los conoceréis son las
+Gomas del pelo no sé si los conoceréis son las
 invisibles y son estas que parecen como
-un cable de teléfono antiguo que igual
-muchos de vosotros ya ni siquiera han
-desconocido los teléfonos con este cable
-pero bueno antes el teléfono tenía este
-tipo de cable y pues esta marca en vice
-power se ha decidido crear este tipo de
-gomas para el pelo y la verdad es que a
-mí me gustan mucho y lo cierto es que me
+un cable de teléfono antiguo  
+
+La verdad es que amí me gustan mucho y lo cierto es que me
 han sorprendido bastante porque yo no no
 pensaba que realmente iban a cumplir lo
-que lo que promete adherió me ido a la
-página web de estas gomas porque yo
-estas las compro en la en la peluquería
+que lo que promete 
+
+Estas las compro en la en la peluquería
 de la que voy en la que ahora trabajo
-como esteticista que es en cruz gómez no
-y ellos las tenían y me dejaron de
+como esteticista que es 
+
 probarlas y yo la cogí las he estado
 probando desde entonces y la verdad es
 que ya por el tercer o cuarto paquete es
@@ -396,6 +385,7 @@ siempre os dejo toda la información que
 os hablo de la que os hablo en el vídeo
 incluso alguna más que se me haya podido
 olvidar y que nos vemos en el próximo
-vídeo muchos besitos chau
-Export to CSV
- Tags
+
+
+
+ 
