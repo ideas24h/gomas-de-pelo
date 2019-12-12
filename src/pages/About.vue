@@ -34,7 +34,8 @@ export default {
         {
           key: 'description',
           name: 'description',
-          content: 'Introduction to the Bleda blog starter for Gridsome.'
+          content: 'Introduction to the Bleda blog starter for Gridsome.',
+          noindex: true
         },
 
         { property: "og:type", content: 'article' },

@@ -6,7 +6,7 @@ class TailwindExtractor {
 
 module.exports = {
   siteName: 'Gomas de pelo',
-  siteDescription: "Información de gomas de pelo, donde comprar, comparativas, videos y cuales son las mejores gomas de pelo.  ✅",
+  siteDescription: "Información de gomas de pelo, donde comprar, comparativas, videos y cuales son las mejores coleteros  ✅",
   siteUrl: 'https://www.gomasdepelo.com',
   titleTemplate: `%s | Ideas`,
   icon: 'src/favicon.png',
@@ -67,7 +67,7 @@ module.exports = {
           title: node.title,
           description: node.description,
           url: 'https://www.gomasdepelo.com/' + node.slug,
-          author: '@cossssmin',
+          author: '@ideas24h',
           date: node.date
         }),
         output: {

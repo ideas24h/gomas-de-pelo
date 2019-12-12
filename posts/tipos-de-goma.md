@@ -6,9 +6,11 @@ coverImage: "/images/posts/tipos-goma.jpg"
 
 Existen muchos tipos de gomas que puedes elegir en función del tipo de pelo que tienes:
 
-- Gomas silicona: ideales para hacer trencitas en el pelo.
+##  Gomas silicona ## 
+Ideales para hacer trencitas en el pelo.
 
-- Gomas de tela: a corto plazo suelen venir bien a todo el mundo, ya que después de un tiempo pierden la firmeza y elasticidad antes que una de plástico.
+## Gomas de tela ## 
+A corto plazo suelen venir bien a todo el mundo, ya que después de un tiempo pierden la firmeza y elasticidad antes que una de plástico.
 
 - Gomas con gancho: que suelen ser del mismo material que las de tela.
 
@@ -29,7 +31,7 @@ Las gomas de tela le vienen bien a todo el mundo
 Para los moños de bailarina, son mejores las gomas de tela
 Los profesionales prefieren coleteros con gancho, porque permiten una gran sujeción
 Para una coleta bien alta, los coleteros con gancho son geniales
-Los invisibobble, una vez puestos, no se enredan con el pelo, además de ser prácticos e invisibles
+Los **Invisibobble** , una vez puestos, no se enredan con el pelo, además de ser prácticos e invisibles
 
 No cojas gomas que tienen una parte metálica: suele cortar el cabello y fomentar las puntas abiertas
 Para los pelos cortos y para reforzar la sujeción, hay que echar mano de horquillas y pinzas
