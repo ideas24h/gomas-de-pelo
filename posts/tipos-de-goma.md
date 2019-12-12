@@ -33,3 +33,8 @@ Los invisibobble, una vez puestos, no se enredan con el pelo, además de ser pr�
 
 No cojas gomas que tienen una parte metálica: suele cortar el cabello y fomentar las puntas abiertas
 Para los pelos cortos y para reforzar la sujeción, hay que echar mano de horquillas y pinzas
+
+
+Por que elegir una goma no adcuada puede ser un drama:
+
+`youtube:https://www.youtube.com/watch?v=akY4QqvTjdw`
