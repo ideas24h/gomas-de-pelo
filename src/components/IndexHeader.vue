@@ -7,7 +7,7 @@
     </div>
     <div class="text-gray-400 leading-snug">
       <h1 class="text-xl sm:text-3xl">Las mejoras <em>gomas de pelo</em>.</h1>
-      <p class="text-xl sm:text-3xl">Ofertas y donde comprar <em>gomas de pelo baratas</em> ✅</p>
+      <p class="text-xl sm:text-3xl">Ofertas y donde comprar <em>gomas para el pelo baratas</em> ✅</p>
     </div>
   </header>
 </template>

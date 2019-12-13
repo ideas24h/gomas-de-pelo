@@ -33,9 +33,8 @@ Las gomas invisibobbles ¿cumplen lo que prometen?
 
 `youtube:https://www.youtube.com/watch?v=S79h-dJT3XA`
 
-Gomas del pelo no sé si los conoceréis son las
-invisibles y son estas que parecen como
-un cable de teléfono antiguo  
+Gomas del pelo no sé si los conoceréis son las de la marca **Invisibobble** y son estas que parecen 
+un cable de teléfono fijo antiguo. 
 
 La verdad es que amí me gustan mucho y lo cierto es que me
 han sorprendido bastante porque yo no no
@@ -45,6 +44,8 @@ que lo que promete
 Estas las compro en la en la peluquería
 de la que voy en la que ahora trabajo
 como esteticista que es 
+
+
 
 probarlas y yo la cogí las he estado
 probando desde entonces y la verdad es
@@ -59,7 +60,7 @@ hecho ha sido meterme en la web de éstas
 de estas gomas del pelo
 y ver lo que prometen así que os voy a
 os voy a leer la ciencia del producto
-lo que prometen las invisibles son que
+lo que prometen las **Invisibobble**  son que
 la primera ventaja es que no dejan marca
 en el pelo tú puedes tener el pelo liso
 como es mi caso en este momento que no
@@ -238,7 +239,7 @@ va a quedar perfecta y no se te mueve la
 la coleta y ya os digo que yo estoy
 encantadísimo os voy a enseñar porque
 tengo también estas son las originales
-que son las invisibles que os lo dejaré
+que son las **Invisibobble**  que os lo dejaré
 de todas maneras por aquí he escrito por
 abajo os voy a dejar la página web el
 facebook y todo como ya sabéis y os voy
@@ -248,7 +249,7 @@ primeras que os quiero enseñar son estas
 de aquí que me las dio también rey que
 nuestra peluquera que se las mandaron de
 pues para de promoción vale no son
-invisibles son otra marca y entonces a
+**Invisibobble**  son otra marca y entonces a
 ver a primera vista podemos decir pues
 son iguales pues sí a primera vista pues
 sí cosas que yo he visto esta es tarda
@@ -300,7 +301,7 @@ he llevado tantas horas como para para
 poder decir o si realmente dan dolor de
 cabeza o no
 así que yo sin duda alguna me quedo con
-las invisibles deciros que sí que
+las **Invisibobble**  deciros que sí que
 cumplen lo que prometen os prometo que
 sacaré cosas que no las cumplan y esta
 es una cosa de las que si en la cajita

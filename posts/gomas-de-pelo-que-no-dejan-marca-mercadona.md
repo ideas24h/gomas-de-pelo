@@ -26,7 +26,7 @@ Lo más curioso de su tamaño ya que parecen muy pequeñas pero en cambio dan de
 
 
  
-S que sujetan perfectamente el peinado en su sitio. Esto nos parece fundamental, porque si te haces una coleta alta, quieres que se mantenga alta, y con este tipo de coletas se consigue. No van bajando a medida que pasa el día como con otro tipo de gomas de pelo.
+S que sujetan perfectamente el peinado en su sitio. Esto nos parece fundamental, porque si te haces una coleta alta, quieres que se mantenga alta, y con este tipo de coletas se consigue. No van bajando a medida que pasa el día como con otro tipo de  coleteros.
 
  
 
