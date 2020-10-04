@@ -1,15 +1,21 @@
 <template>
-  <header class="mb-8 sm:mb-16 text-black leading-snug">
-    <div class="flex items-center  mr-6">
-      <g-link  to="/" class="font-bold bg-red-400 w-auto  text-center text-white p-8 m-6 text-4xl tracking-tight">
-        {{ $static.metadata.siteName }}
+
+    <header class=" xl:bg-red-200 lg:bg-red-200 md:bg-red-200 sm:bg-red-200 bg-red-200">
+    <div class=" md:flex justify-center py-16 ">
+        <div class=" p-2 my-auto">
+            <img class="  rounded-full h-48 w-48 mx-auto border-8 border-white-800 "
+                src="/images/posts/chica-goma-pelo.jpg">
+        </div>
+        <div class="p-8  my-auto ">
+      <g-link  to="/" class="font-bold  w-auto  text-center text-white p-8 m-6 text-4xl tracking-tight">
+            <h1 class="text-red-600 text-3xl text-center"> {{ $static.metadata.siteName }} </h1>
       </g-link>
+            <p class=" text-white-600 text-xl text-center"> Ofertas y donde comprar <em>gomas para el pelo baratas</em> ✅ </p>
+        </div>
+
     </div>
-    <div class="text-gray-400 leading-snug">
-      <h1 class="text-xl sm:text-3xl">Las mejoras <em>gomas de pelo</em>.</h1>
-      <p class="text-xl sm:text-3xl">Ofertas y donde comprar <em>gomas para el pelo baratas</em> ✅</p>
-    </div>
-  </header>
+</header> 
+
 </template>
 
 
