@@ -1,6 +1,6 @@
 ---
 title: "Gomas de pelo pequeñas"
-description: "2000 Piezas Multicolor Goma de Pelo Elástico Goma con Caja Libre para Niñas  ✅"
+description: "2000 Piezas Multicolor Goma de Pelo Elástico Goma para Niñas  ✅"
 date: 2019-09-29 22:54:42
 coverImage: "/images/posts/webp/gomas-de-pelo-baratas.webp"
 afiUrl: "https://amzn.to/35wt355"
