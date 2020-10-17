@@ -8,7 +8,7 @@
     "newpost": "node scripts/newPost.js"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "@fullhuman/postcss-purgecss": "^2.2.0",
     "@gridsome/plugin-google-analytics": "^0.1.1",
     "@gridsome/plugin-sitemap": "^0.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
@@ -26,6 +26,6 @@
     "postcss-import": "^12.0.1",
     "postcss-nested": "^4.2.1",
     "tailwindcss": "^1.4.6",
-    "tailwindcss-transitions": "^2.2.0"
+    "tailwindcss-transitions": "^2.1.0"
   }
 }

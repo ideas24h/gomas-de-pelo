@@ -2,15 +2,15 @@
   @apply bg-briefly-yellow;
 }
 
-.article-list-link {
+/* .article-list-link {
   @apply block px-4 text-black border-l-4 border-transparent transition-article-item;
-}
+} */
 
-@screen sm {
+/* @screen sm {
   .article-list-link {
     @apply text-xl;
-  }
-}
+  } 
+}*/
 
 .article-list-link:hover {
   @apply text-briefly-blue border-briefly-blue;
