@@ -36,10 +36,14 @@
 <<<<<<< HEAD
     "postcss-nested": "^4.2.1",
     "tailwindcss": "^1.4.6",
+<<<<<<< HEAD
 =======
     "postcss-nested": "^4.1.2",
     "tailwindcss": "^1.1.2",
 >>>>>>> parent of aee8ce7... update dep
     "tailwindcss-transitions": "^2.1.0"
+=======
+    "tailwindcss-transitions": "^1.0.6"
+>>>>>>> parent of 7860779... ok
   }
 }
