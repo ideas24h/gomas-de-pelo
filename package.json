@@ -9,6 +9,7 @@
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "@fullhuman/postcss-purgecss": "^2.2.0",
     "@gridsome/plugin-google-analytics": "^0.1.1",
     "@gridsome/plugin-sitemap": "^0.3.0",
@@ -16,12 +17,17 @@
     "@gridsome/transformer-remark": "^0.6.0",
     "gridsome": "^0.7.15",
 =======
+=======
+>>>>>>> parent of aee8ce7... update dep
     "@fullhuman/postcss-purgecss": "^1.3.0",
     "@gridsome/plugin-google-analytics": "^0.1.0",
     "@gridsome/plugin-sitemap": "^0.2.2",
     "@gridsome/source-filesystem": "^0.6.0",
     "@gridsome/transformer-remark": "^0.6.3",
     "gridsome": "^0.7.12",
+<<<<<<< HEAD
+>>>>>>> parent of aee8ce7... update dep
+=======
 >>>>>>> parent of aee8ce7... update dep
     "gridsome-plugin-gtm": "^0.1.1",
     "gridsome-plugin-remark-shiki": "^0.3.0",
@@ -34,6 +40,7 @@
     "moment": "^2.24.0",
     "postcss-import": "^12.0.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "postcss-nested": "^4.2.1",
     "tailwindcss": "^1.4.6",
 <<<<<<< HEAD
@@ -45,5 +52,10 @@
 =======
     "tailwindcss-transitions": "^1.0.6"
 >>>>>>> parent of 7860779... ok
+=======
+    "postcss-nested": "^4.1.2",
+    "tailwindcss": "^1.1.2",
+    "tailwindcss-transitions": "^2.1.0"
+>>>>>>> parent of aee8ce7... update dep
   }
 }
