@@ -4,15 +4,14 @@ description: "Elige el tipo de goma mas adecuada para tu pelo"
 coverImage: "/images/posts/tipos-goma.jpg"
 ---
 
-Existen muchos tipos de gomas que puedes elegir en función del tipo de pelo que tienes:
+## Gomas de silicona
+Las gomas de silicona son ideales para hacer trencitas en el pelo. Son casi invisibles y sujetan bien el extremo más fino del cabello. Además, no dañan ni enredan el pelo, por lo que son una excelente opción para mantener el cabello fino en su lugar.
 
-##  Gomas silicona ## 
-Ideales para hacer trencitas en el pelo.
+## Gomas de tela
+Las gomas de tela son ideales para hacer moños de bailarina y para mantener el cabello en su lugar a corto plazo. Sin embargo, después de un tiempo pierden su elasticidad y firmeza, por lo que no son la mejor opción para uso prolongado.
 
-## Gomas de tela ## 
-A corto plazo suelen venir bien a todo el mundo, ya que después de un tiempo pierden la firmeza y elasticidad antes que una de plástico.
-
-- Gomas con gancho: que suelen ser del mismo material que las de tela.
+## Gomas con gancho
+Las gomas con gancho son perfectas para hacer moños altos y para reforzar la sujeción del cabello. Son de fácil uso y
 
 - Gomas que contengan una parte metálica: puede dañar y cortar tu cabello, dando lugar a puntas abiertas.
 
